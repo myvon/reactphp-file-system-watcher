@@ -4,6 +4,10 @@ File System Watcher made with ReactPHP EventLoop and ChildProcess.
 This is entirely based on [spatie/file-system-watcher](https://github.com/spatie/file-system-watcher) and
 adapted from [symfony/process](https://github.com/symfony/process) to [react/child-process](https://github.com/reactphp/child-process)
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/myvon/reactphp-file-system-watcher.svg?style=flat-square)](https://packagist.org/packages/myvon/reactphp-file-system-watcher)
+[![Tests](https://github.com/myvon/reactphp-file-system-watcher/actions/workflows/run-test.yml/badge.svg)](https://github.com/myvon/reactphp-file-system-watcher/actions/workflows/run-test.yml)
+[![Total Downloads](https://img.shields.io/packagist/dt/myvon/reactphp-file-system-watcher.svg?style=flat-square)](https://packagist.org/packagesmyvon/reactphp-file-system-watcher)
+
 # Watch changes in the file system using PHP
 
 This package allows you to react to all kinds of changes in the file system.
